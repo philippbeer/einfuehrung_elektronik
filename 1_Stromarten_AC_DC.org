@@ -1,0 +1,53 @@
+
+#+TITLE: Einführung in die Elektronik
+#+AUTHOR: Philipp Beer
+#+EMAIL: philipp@sciscry.ai
+#+DATE: 2022-07-06
+#+DESCRIPTION: introduction to electronics for kids
+#+KEYWORDS: electronics, kids
+#+LANGUAGE: de
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:https://orgmode.org/org-info.js
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_MATHJAX_URL: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#+REVEAL_TRANS: Slide
+#+REVEAL_THEME: blood
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+HTML_LINK_UP:
+#+HTML_LINK_HOME:
+#+begin_export HTML
+<style>
+.reveal table {
+    font-size: 0.6em;
+}
+
+.reveal p {
+    font-size: 0.8em;
+}
+</style>
+#+end_export
+
+*  Einführung in die Elektronik - Lerneinheit 1
+#+ATTR_HTML: :width 300px
+#+ATTR_LATEX: :width 200px
+[[./img/header_img.jpg]]
+
+Philipp Beer\\
+Data Scientist
+** Arten des elektrischen Stroms
+
+| Wechselstrom (AC) | Gleichstrom (DC) |
+|-------------------+------------------|
+| Steckdose         | Batterie         |
+|-------------------+------------------|
+\\
+- Was ist was?: Handy, Auto, Fernseher
+* Wechselstrom
+- wechselt ständig die Richtung
+- in Europa 100 mal in der Sekunde (oder 50Hz)
+* Gleichstrom  
+- Strom fließt immer in die gleiche Richtung
+
+** Danke für eure Aufmerksamkeit

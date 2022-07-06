@@ -1,0 +1,56 @@
+
+#+TITLE: Einführung in die Elektronik
+#+AUTHOR: Philipp Beer
+#+EMAIL: philipp@sciscry.ai
+#+DATE: 2022-07-06
+#+DESCRIPTION: introduction to electronics for kids
+#+KEYWORDS: electronics, kids
+#+LANGUAGE: de
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:https://orgmode.org/org-info.js
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_MATHJAX_URL: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#+REVEAL_TRANS: Slide
+#+REVEAL_THEME: blood
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+HTML_LINK_UP:
+#+HTML_LINK_HOME:
+#+begin_export HTML
+<style>
+.reveal table {
+    font-size: 0.6em;
+}
+
+.reveal p {
+    font-size: 0.8em;
+}
+</style>
+#+end_export
+
+*  Einführung in die Elektronik
+#+ATTR_HTML: :width 300px
+#+ATTR_LATEX: :width 200px
+[[./img/header_img.jpg]]
+
+Philipp Beer\\
+Data Scientist
+** Ziel des Kurses
+- Grundlagen der Elektronik kennenlernen
+- die Welt um uns besser zu verstehen
+- neues Hobby zu entdecken
+* Sicherheit
+- Wir machen Experimente und halten uns an die Sicherheitsregeln
+- Elektrischer Strom leitet und kann lebensgefährlich sein
+  
+** Wir berühren keine Pole einer Steckdose
+- nicht mit unserem Händen oder anderen Gegenständen
+- Wasser ist leitungsfähig
+- MultiMeter darf nur unter Anweisung des Kursleiters verwendet werden
+** Wir ziehen Stecker nie an der Leitung sondern immer nur am Stecker
+** Elektrische Schaltungen bauen wir nur bei ausgeschalteter Quelle auf
+- erst nach sorgfältiger Prüfung schalten wir den Schaltkreis ein
+- wenn etwas kaputt geht bitten wir den Kursleiter um Hilfe
+  
+** Danke für eure Aufmerksamkeit
